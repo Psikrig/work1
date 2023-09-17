@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YB9k4455Rk3tevP8dfyMVzvj+lhjZsLTOZUKKFFESmRKLq6f+fdGfzz854AiAE/W594uKL7CfhOistEpQBvyAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Влад\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Влад\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\Влад\\.nuget\\packages\\dryioc.dll\\5.4.1\\dryioc.dll.5.4.1.nupkg.sha512",
+    "C:\\Users\\Влад\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

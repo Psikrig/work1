@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "Baseline": "4.1.0",
+          "DryIoc.dll": "5.4.1"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "Baseline/4.1.0": {
+        "dependencies": {
+          "ImTools": "4.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Baseline.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "DryIoc.dll/5.4.1": {
+        "runtime": {
+          "lib/net6.0/DryIoc.dll": {
+            "assemblyVersion": "5.4.1.0",
+            "fileVersion": "5.4.1.0"
+          }
+        }
+      },
+      "ImTools/4.0.0": {}
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Baseline/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uM4EJYhrn9OmjLOTI0nJuT6WwqsH/+ZM+d8uwLS1o/SX8MRp5xj/83Zoms7ffwi8D3AMK+qDyUJ4cx4jgVY9gg==",
+      "path": "baseline/4.1.0",
+      "hashPath": "baseline.4.1.0.nupkg.sha512"
+    },
+    "DryIoc.dll/5.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fWjM3O4tCivhoQiHsJ3XClLtQ8wK2Tg6Loy6bQ7nOO1L5nRngB4G8TjtLJT3JuvnVQ7DC+kD4nDIVR/qjQg/dw==",
+      "path": "dryioc.dll/5.4.1",
+      "hashPath": "dryioc.dll.5.4.1.nupkg.sha512"
+    },
+    "ImTools/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dms0JfLKC9AQbQX/EdpRjn59EjEvaCxIgv1z9YxbEQb5SiOVoo7vlIKdEySeEwUkWhN05rZnNpUpG+aw5VqPVQ==",
+      "path": "imtools/4.0.0",
+      "hashPath": "imtools.4.0.0.nupkg.sha512"
+    }
+  }
+}
